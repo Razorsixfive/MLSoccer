@@ -14,8 +14,6 @@ Welcome to the Unity Soccer Environment, a cutting-edge project that utilizes co
 - [The Chosen ML Method: Proximal Optimization for Cooperative Agents (POCA)](#the-chosen-ml-method-proximal-optimization-for-cooperative-agents-poca)
 - [Comparison with Other Options](#comparison-with-other-options)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
